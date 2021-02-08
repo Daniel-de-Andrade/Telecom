@@ -1,0 +1,39 @@
+/* RESET */
+* {
+    box-sizing: border-box;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #fff;
+}
+main {
+    background-color: #fff;
+    padding: 50px;
+    width: 800px;
+    margin: 30px auto;
+}
+a {
+    color: inherit;
+    font-weight: bolder;
+    text-decoration: none;
+}
+a:hover {
+    color: yellowgreen;
+}
+
+.sobre {
+    color: #888;
+    display: block;
+    font-style: italic;
+}
+
+.conteudo {
+    background-color: rgba(181,194,248,.2);
+    border-radius: 32px;
+    margin-bottom: 16px;
+    padding: 24px;
+}
